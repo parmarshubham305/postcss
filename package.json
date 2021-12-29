@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "popper.js": "^1.16.1",
+    "slick": "^1.12.2",
+    "slick-carousel": "^1.6.0"
+  },
+  "name": "layout",
+  "description": "",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "scripts": {
+    "build": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
